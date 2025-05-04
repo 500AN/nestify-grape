@@ -283,6 +283,7 @@ ${html}
         {/* Studio SDK editor component */}
         <StudioEditor
           options={{
+            licenseKey: '0fc74832aef64f8faf4c9957bc8400790585605867a94e04b7645a41e0a71506',
             height: '100%',
             width: '100%',
             project: {
